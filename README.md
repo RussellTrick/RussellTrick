@@ -1,4 +1,4 @@
-### Hi there, [check out my site](https://owainevans.info) 👋
+### [Hi](https://owainevans.info) 👋
 
 <!--
 **RussellTrick/RussellTrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
